@@ -1,0 +1,45 @@
+📘 Task: Python List Operations
+🧾 Objectives
+Practice basic list operations in Python.
+
+Understand how to modify, extend, and sort lists.
+
+Learn how to search for elements in a list.
+
+🛠️ Instructions
+Create an empty list called my_list.
+
+Append the values 10, 20, 30, and 40 to the list.
+
+Insert the value 15 at the second position (index 1).
+
+Extend the list with [50, 60, 70].
+
+Remove the last element from the list.
+
+Sort the list in ascending order.
+
+Find and print the index of the value 30 in the final list.
+
+✅ Expected Output
+
+Index of 30: 4
+Final list: [10, 15, 20, 30, 40, 50, 60]
+💡 Notes
+Use list.append() to add elements.
+
+Use list.insert(index, value) to insert at a specific position.
+
+Use list.extend() to combine two lists.
+
+Use list.pop() to remove the last element.
+
+Use list.sort() to sort the list.
+
+Use list.index(value) to find the position of an element.
+
+💻 Example Usage
+
+$ python list_task.py
+Index of 30: 4
+Final list: [10, 15, 20, 30, 40, 50, 60]
